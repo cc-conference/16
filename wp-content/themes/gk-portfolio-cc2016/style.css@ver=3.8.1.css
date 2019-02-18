@@ -1,0 +1,29 @@
+/*
+ Theme Name: GK Portfolio - CC2016
+ Theme URI:
+ Description: Child of gk-portfolio Theme (gk-portfolio Original Version: )
+ Author:       Asaf Wolf
+ Author URI:
+ Template:     gk-portfolio
+ Version:      1.0.0
+ Tags:
+ Text Domain:  gk-portfolio-cc2016
+*/
+
+@import url("../gk-portfolio/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+#gk-footer {
+    padding: 10px;
+}
+.site-header {
+    height: 120px;
+}
+.site-title {
+    font-size: 36px;
+}
+.site-description {
+    margin: -8px 0 0;
+    font-size: 15px;
+}
